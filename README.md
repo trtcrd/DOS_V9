@@ -1,7 +1,7 @@
 # Metadata and R scripts 
 
 This repository contains the metadata and the R scripts associated with the paper:\
-Cordier T, Angeles IB, Henry N, Lejzerowicz F, Berney C, Morard R, Brandt A, Cambon-Bonavita M-A, Guidi L, Lombard F, Arbizu PM, Massana R, Orejas C, Poulain J, Smith CR, Wincker P, Arnaud-Haond S, Gooday AJ, de Vargas C, Pawlowski J, 2022. **Patterns of eukaryotic diversity from the surface to the deep-ocean sediment**. Science Advances, 8 (5), eabj9309. DOI: [10.1126/sciadv.abj9309](https://doi.org/10.1126/sciadv.abj9309)
+Cordier T, Barrenechea Angeles I, Henry N, Lejzerowicz F, Berney C, Morard R, Brandt A, Cambon-Bonavita M-A, Guidi L, Lombard F, Arbizu PM, Massana R, Orejas C, Poulain J, Smith CR, Wincker P, Arnaud-Haond S, Gooday AJ, de Vargas C, Pawlowski J, 2022. **Patterns of eukaryotic diversity from the surface to the deep-ocean sediment**. Science Advances, 8 (5), eabj9309. DOI: [10.1126/sciadv.abj9309](https://doi.org/10.1126/sciadv.abj9309)
 
 # Raw sequencing data
 
